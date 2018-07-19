@@ -20,7 +20,7 @@ NGA intends to retire its current traditional data center and replace it with a 
 
 ## 3.1 Scope
 
-The scope of this effort is to develop capabilities to ingest, discover, retrieve and visualize MTI data (STANAG 4607, STANAG 4676, and mission data) in the cloud across multiple security domains. To fulfill the objectives for performance of this task order, the Vendor must meet the user needs described in the following subsections. Please note that, in subsequent sprints, we may refine these objectives to ensure we are continually meeting user needs. In agreement with the product owner, we may modify, add, retract, or reprioritize elements from the backlog. (see [ATTACHMENT 1](04a_AWS.md)).
+The scope of this effort is to develop capabilities to ingest, discover, retrieve and visualize MTI data (STANAG 4607, STANAG 4676, and mission data) in the cloud across multiple security domains. To fulfill the objectives for performance of this task order, the Vendor must meet the user needs described in the following subsections. Please note that, in subsequent sprints, we may refine these objectives to ensure we are continually meeting user needs. In agreement with the product owner, we may modify, add, retract, or reprioritize elements from the backlog. (see [ATTACHMENT 1](01_SOO.md)).
 
 
 ## 4.0 PERIOD OF PERFORMANCE
